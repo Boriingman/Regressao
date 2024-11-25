@@ -33,7 +33,7 @@ Certifique-se de que esses pacotes estão instalados no seu ambiente R antes de 
 
 1. Copie o código do aplicativo Shiny e salve-o em um arquivo `app.R`.
 2. Execute o arquivo em qualquer ambiente que suporte Shiny, como o RStudio.
-3. Interaja com o aplicativo por meio do navegador.
+3. Interaja com o aplicativo por meio do navegador (**URL**: https://boringman.shinyapps.io/regressao/).
 
 ## Observações
 
