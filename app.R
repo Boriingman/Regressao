@@ -8,7 +8,7 @@ ui <- fluidPage(
   useShinyjs(), 
   tags$style(HTML("h4 { color: #2E86C1; } .btn { background-color: #2E86C1; color: white; }")),
   
-  titlePanel("Aplicativo de Regressão Múltipla - ME918"),
+  titlePanel("Aplicativo de Regressão Múltipla"),
   
   tabsetPanel(
     tabPanel("1. Carregar Dados",
